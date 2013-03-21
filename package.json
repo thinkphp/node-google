@@ -17,7 +17,7 @@
       , "querystring": ">=0.0.1"
     },
     "bugs" : { 
-        "url" : "http://github.com/thinkphp/node-google.js/issues"
+        "url" : "http://github.com/thinkphp/node-google/issues"
     },
     "main" : "./index.js",
     "scripts" : {
@@ -25,6 +25,6 @@
     },
     "licenses" : [{
         "type" : "MIT",
-        "url" : "http://github.com/thinkphp/node-google.js/raw/master/LICENSE"
+        "url" : "http://github.com/thinkphp/node-google/raw/master/LICENSE"
     }]
 }
