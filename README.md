@@ -6,8 +6,7 @@ A client for Google AJAX Web Search API on Node.js
 
 ```
 $ git clone git://github.com/thinkphp/node-google.git
-$ cd node-google
-$ npm install
+$ npm install node-google
 ```
 
 Touch app.js and add:
