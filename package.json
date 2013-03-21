@@ -1,0 +1,30 @@
+{
+    "author": "Adrian Statescu <mergesortv@gmail.com>",
+    "name": "googler",
+    "description": "A library for the Web Google Search APIs",
+    "tags" : ["search", "google"],
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/thinkphp/node-google.git"
+    },
+    "engines": {
+        "node": ">= 0.4.1"
+    },
+    "dependencies": {
+      "underscore": ">=1.2.0"
+      , "request": ">=2.1.0"
+      , "querystring": ">=0.0.1"
+    },
+    "bugs" : { 
+        "url" : "http://github.com/thinkphp/node-google.js/issues"
+    },
+    "main" : "./index.js",
+    "scripts" : {
+      "test": ""
+    },
+    "licenses" : [{
+        "type" : "MIT",
+        "url" : "http://github.com/thinkphp/node-google.js/raw/master/LICENSE"
+    }]
+}
