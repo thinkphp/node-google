@@ -3,7 +3,7 @@
     "name": "googler",
     "description": "A library for the Web Google Search APIs",
     "tags" : ["search", "google"],
-    "version": "0.1.0",
+    "version": "1.0.0",
     "repository": {
         "type": "git",
         "url": "git://github.com/thinkphp/node-google.git"
